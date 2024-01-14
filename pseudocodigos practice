@@ -1,0 +1,21 @@
+Desarrolle un algoritmo (Presudocódigo) que permita leer tres valores y almacenarlos en las variables
+ A, B y C respectivamente. El algoritmo debe imprimir cual es el mayor y cual es el menor.
+ Recuerde constatar que los tres valores introducidos por el teclado sean valores distintos. 
+Presente un mensaje de alerta en caso de que se detecte la introducción de valores iguales.
+
+inicio
+ingresar ''valor n 1'' asig A
+ingresar ''valor n 2'' asig B
+ingresar ''valor n 3'' asig C
+
+si A > b y C
+    entonces A es el >
+si B > C
+    entonces C <
+
+    fin si
+
+    alerta ''los valores tienen que ser distintos''
+
+    fin
+
